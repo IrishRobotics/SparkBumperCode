@@ -1,0 +1,21 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "bin/": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true,
+    "**/*~": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#4A2313",
+    "titleBar.activeBackground": "#68311A",
+    "titleBar.activeForeground": "#FDF9F7"
+  }
+}
